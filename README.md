@@ -1,2 +1,2 @@
 # posh-osgb
-Conversions between OS Grid References and Lat Long
+Conversions between OS Grid References and Latitude/Longitude
